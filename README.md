@@ -11,7 +11,7 @@ Designed for the MR-Box (DRC Version).
 The hardware design files were created and can be edited in [AutoCAD](https://www.autodesk.ca/en/products/autocad/overview).
 
 ## Materials
-A list of all the materials required to build one Motorized Z-stage can be found in the `BOM.csv` file.
+A list of all the materials required to build one Motorized Z-stage can be found in the [BOM.csv](BOM.csv) file or in the [BOM.xlsx](BOM.xlsx) which includes links.
 
 ## License Information
 Copyright CERN 2013.
